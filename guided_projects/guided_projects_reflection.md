@@ -2,10 +2,6 @@
 
 **Guided data projects**
 
-<span style="text-decoration:underline;">Abstract</span>
-
-Datacamp’s guided data projects were an ideal follow up to the python/pandas/seaborn basics courses, mainly because of how they allowed me to put the freshly acquired knowledge to practice. Helping me even further to retain said knowledge and also giving me good insight into how I can/should use it to solve “real world problems”. The projects’ clear and straightforward structure made them easy to follow, but they still required me to look back to my notes and effectively apply what I had recently learned. From descriptive statistics to data visualizations, the problems posed in the projects made for a good recap of sorts from the earlier courses, while still requiring me to look for new methods on my own in order to solve said problems.
-
 <span style="text-decoration:underline;">Reflection Essay</span>
 
 This section was meant to put what I had previously learned in the Datacamp courses: ‘Data manipulation with pandas’, ‘Cleaning data in Python’, and ‘Intermediate data visualization with Seaborn’ to test. Requiring me to apply my knowledge in a more hands-on and practical way, they gave me a larger degree of ‘freedom’ or independence as to how exactly I completed the tasks. I aimed to have these guided data projects get me used to making use of my knowledge, my notes, and online resources to full on investigations, with a particular goal in mind from start to finish. A much more detailed context of the tasks, methods, and their objectives gave it a more real-world feel where I could see myself using the same methods and techniques for an investigation of my own. This of course was the whole point of taking on these projects, preparing me as best as possible to carry out an investigation wholly on my own. An objective that I feel was met quite well by the variety and wide range of different methods and techniques required throughout the courses to solve the problems and answer their main questions.

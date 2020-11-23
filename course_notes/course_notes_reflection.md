@@ -2,10 +2,6 @@
 
 **Notes on the data analysis competencies**
 
-<span style="text-decoration:underline;">Abstract</span>
-
-After going into this module with very little knowledge on data science as a whole, taking on 3 of the recommended Datacamp courses was to my impression the best I could have done. Giving me all the necessary tools needed to carry out an investigation with popular and widely supported libraries, these 3 courses covered all the basics of data science from a rather broad perspective. Although the learning was of course dependent on the appropriate note taking technique, this was achieved by simply writing down every code snippet along with a short explanation of what it did and how. Taking these notes consistently throughout each individual course allowed me to refer back to previous knowledge for problems during the courses. As well as helping me retain the information provided in these same courses.
-
 <span style="text-decoration:underline;">Reflection Essay</span>
 
 In this section I set out to learn the basic data analysis competencies of data handling, data exploration, and data visualization. All in order to set myself a good basis of knowledge on data science, it’s methods, and their possibilities. My interest in the topic is mainly because of its usefulness and just how much value it can add to a business that has access to relevant data. More specifically, to any business or project I wish to embark on from this point onwards. Allowing one to make better, more informed decisions all around as well as act upon them in the best ways possible. This was then achieved through 3 of the recommended Datacamp courses, namely ‘Data manipulation with pandas’, ‘Cleaning data in Python’, and ‘Intermediate data visualization with Seaborn’. All of which successfully taught me the necessary tools to effectively take on tasks from their respective topics. Not only through small lecture-like videos on said tools, but also various problems that required effective use of the methods explained beforehand.
